@@ -22,7 +22,9 @@
     <ClInclude Include="include\nagisa\build_lib\config.h" />
     <ClInclude Include="include\nagisa\build_lib\construct.h" />
     <ClInclude Include="include\nagisa\build_lib\destruct.h" />
+    <ClInclude Include="include\nagisa\build_lib\details\detail.h" />
     <ClInclude Include="include\nagisa\build_lib\details\name.h" />
+    <ClInclude Include="include\nagisa\build_lib\details\root.h" />
     <ClInclude Include="include\nagisa\build_lib\details\version.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
